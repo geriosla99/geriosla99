@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://codepen.io/geriosla99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="geriosla99" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/geraldine-rios-506a271a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/geraldine-rios-506a271a7/" height="30" width="40" /></a>
-<a href="https://fb.com/geraldine rios" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="geraldine rios" height="30" width="40" /></a>
+<a href="https://www.facebook.com/geraldine.rios/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="geraldine rios" height="30" width="40" /></a>
 <a href="https://instagram.com/geral_rios" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="geral_rios" height="30" width="40" /></a>
 </p>
 
