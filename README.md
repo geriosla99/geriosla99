@@ -1,6 +1,8 @@
 <h1 align="center">Hola 👋, Soy Geraldine Rios</h1>
 <h3 align="center">Soy desarrolladora web frontend junior :blush:</h3>
 
+- :woman: Este es mi portafolio https://portafolio-chi-ecru.vercel.app/
+
 - 🌱 Ademas de ReacJS estoy aprendiendo otros frameworks como **Angular y Vue.**
 
 - 👯 El proyecto mas grande que he trabajado es **MAGMA**
