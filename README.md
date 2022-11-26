@@ -1,9 +1,9 @@
-<h1 align="center">Hola 👋, Soy Geraldine Rios</h1>
-<h3 align="center">Soy desarrolladora web frontend junior :blush:</h3>
+<h1 align="center">Hi 👋, I'm Geraldine Rios</h1>
+<h3 align="center">I'm Frontend Developer :blush:</h3>
 
-- 🌱 Ademas de ReacJS estoy aprendiendo otros frameworks como **Angular y Vue.**
+- 🌱 Also I handle React and I'm learning framework like **Angular y Vue.**
 
-- 👯 El proyecto mas grande que he trabajado es **MAGMA**
+- 👯 The biggest project I've ever done is **MAGMA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
